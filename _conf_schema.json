@@ -1,0 +1,22 @@
+{
+  "notify_qq": {
+    "description": "接收通知的QQ号",
+    "type": "string",
+    "default": ""
+  },
+  "enabled_groups": {
+    "description": "启用通知的群号列表，每行一个。填 all 代表所有群",
+    "type": "text",
+    "default": "all"
+  },
+  "enable_increase": {
+    "description": "入群通知开关",
+    "type": "bool",
+    "default": true
+  },
+  "enable_decrease": {
+    "description": "退群通知开关",
+    "type": "bool",
+    "default": true
+  }
+}
