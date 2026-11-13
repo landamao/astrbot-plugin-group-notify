@@ -1,5 +1,5 @@
 name: 群变动通知
 desc: 监听入群/退群事件，发送私聊通知给指定QQ号
 version: 1.2
-author: 砂糖酱
+author: 懒大猫
 repo: https://github.com/landamao/astrbot-plugin-group-notify
